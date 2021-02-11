@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.08645506.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.2cc67b01.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.2cc67b01.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.02132f0f.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.02132f0f.js.map",
-    "static/js/2.64a5a853.chunk.js": "/react-gh-pages/static/js/2.64a5a853.chunk.js",
-    "static/js/2.64a5a853.chunk.js.map": "/react-gh-pages/static/js/2.64a5a853.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/main.08645506.chunk.css.map": "/react-gh-pages/static/css/main.08645506.chunk.css.map",
-    "static/js/2.64a5a853.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.64a5a853.chunk.js.LICENSE.txt"
+    "main.css": "/on-off-button/static/css/main.08645506.chunk.css",
+    "main.js": "/on-off-button/static/js/main.2cc67b01.chunk.js",
+    "main.js.map": "/on-off-button/static/js/main.2cc67b01.chunk.js.map",
+    "runtime-main.js": "/on-off-button/static/js/runtime-main.12512757.js",
+    "runtime-main.js.map": "/on-off-button/static/js/runtime-main.12512757.js.map",
+    "static/js/2.64a5a853.chunk.js": "/on-off-button/static/js/2.64a5a853.chunk.js",
+    "static/js/2.64a5a853.chunk.js.map": "/on-off-button/static/js/2.64a5a853.chunk.js.map",
+    "index.html": "/on-off-button/index.html",
+    "static/css/main.08645506.chunk.css.map": "/on-off-button/static/css/main.08645506.chunk.css.map",
+    "static/js/2.64a5a853.chunk.js.LICENSE.txt": "/on-off-button/static/js/2.64a5a853.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.02132f0f.js",
+    "static/js/runtime-main.12512757.js",
     "static/js/2.64a5a853.chunk.js",
     "static/css/main.08645506.chunk.css",
     "static/js/main.2cc67b01.chunk.js"
