@@ -1,7 +1,7 @@
 import { createStore } from 'redux'
 
 const initialState = {
-    buttonState: false
+    isButtonOn: false
 }
 
 const reducer = (state = initialState, action) => {
@@ -9,7 +9,7 @@ const reducer = (state = initialState, action) => {
         case 'CHANGE_BUTTON_STATE': {
             return {
                 ...state,
-                buttonState: !state.buttonState
+                isButtonOn: !state.isButtonOn
             }
         }
         default:
